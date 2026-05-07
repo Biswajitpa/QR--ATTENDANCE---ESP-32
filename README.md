@@ -61,19 +61,23 @@ QR Code → ESP32 Scanner → WiFi → Backend Server → Database → Dashboard
 - HTML, CSS, JavaScript  
 
 ---
-📦 QR-Attendance-ESP32
-├── 📁 esp32-code
+QR-Attendance-ESP32/
+├── esp32-code/
 │   └── main.ino
-├── 📁 backend
+│
+├── backend/
 │   ├── server.js
-│   └── routes
-├── 📁 frontend
+│   └── routes/
+│
+├── frontend/
 │   ├── index.html
 │   ├── dashboard.html
 │   └── style.css
-├── 📁 database
+│
+├── database/
 │   └── schema.sql
-└── 📄 README.md
+│
+└── README.md
 ---
 
 ## 🚀 How It Works
