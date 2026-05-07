@@ -63,6 +63,7 @@ QR Code → ESP32 Scanner → WiFi → Backend Server → Database → Dashboard
 ---
 ## 📁 Project Structure
 
+```text
 QR-Attendance-ESP32
 ├── esp32-code
 │   └── main.ino
@@ -80,6 +81,7 @@ QR-Attendance-ESP32
 │   └── schema.sql
 │
 └── README.md
+```
 
 ---
 
