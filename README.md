@@ -63,19 +63,24 @@ QR Code → ESP32 Scanner → WiFi → Backend Server → Database → Dashboard
 ---
 ## 📁 Project Structure
 
-📦 QR-Attendance-ESP32
-|-- esp32-code/
-|   `-- main.ino
-|-- backend/
-|   |-- server.js
-|   `-- routes/
-|-- frontend/
-|   |-- index.html
-|   |-- dashboard.html
-|   `-- style.css
-|-- database/
-|   `-- schema.sql
-`-- README.md
+📁 QR-Attendance-ESP32
+
+  📂 esp32-code
+     └── main.ino
+
+  📂 backend
+     ├── server.js
+     └── routes
+
+  📂 frontend
+     ├── index.html
+     ├── dashboard.html
+     └── style.css
+
+  📂 database
+     └── schema.sql
+
+  📄 README.md
 ---
 
 ## 🚀 How It Works
