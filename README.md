@@ -23,6 +23,7 @@ Traditional attendance systems are:
 ❌ Easy to manipulate  
 
 This system solves it with:
+
 ✔ QR-based contactless attendance  
 ✔ Real-time cloud sync  
 ✔ Secure student validation  
