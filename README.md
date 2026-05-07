@@ -130,9 +130,9 @@ QR-Attendance-ESP32
 **Biswajit Pattanaik**  
 Embedded Systems | IoT | Full Stack Developer | AI Enthusiast  
 
-📧 Email: pattanaiikbiswajit07@gmail.com
-💼 LinkedIn: [https://linkedin.com/in/your-profile  ](https://www.linkedin.com/in/biswajit-pattanaik-3586b82b3)
-🌐 GitHub: Biswajit pattanaik
+- 📧 Email: pattanaiikbiswajit07@gmail.com
+- 💼 LinkedIn: [https://linkedin.com/in/your-profile  ](https://www.linkedin.com/in/biswajit-pattanaik-3586b82b3)
+- 🌐 GitHub: Biswajit pattanaik
 
 ---
 
