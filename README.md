@@ -132,8 +132,7 @@ Embedded Systems | IoT | Full Stack Developer | AI Enthusiast
 
 - 📧 Email: pattanaiikbiswajit07@gmail.com
 - 💼 LinkedIn: [https://linkedin.com/in/your-profile  ](https://www.linkedin.com/in/biswajit-pattanaik-3586b82b3)
-- 🌐 GitHub: Biswajit pattanaik
-
+- 🌐 GitHub: https://github.com/Biswajitpa
 ---
 
 ## ⭐ Support
