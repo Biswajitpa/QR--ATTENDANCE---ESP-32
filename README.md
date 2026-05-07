@@ -17,6 +17,7 @@ It replaces manual attendance with a **fast, secure, and real-time automated sys
 ## 🎯 Why This Project?
 
 Traditional attendance systems are:
+
 ❌ Time-consuming  
 ❌ Error-prone  
 ❌ Easy to manipulate  
